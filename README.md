@@ -7,3 +7,4 @@
 * **adicionar_nova_coluna.ipynb**: https://www.youtube.com/watch?v=N9m2Pqy1nc8
 * comando git pull
 * comando git pull
+* comando git fetch
