@@ -9,3 +9,4 @@
 
 #### tentativa n°: 1
 ##### salvando novas modificações no repertório
+* comando git push
